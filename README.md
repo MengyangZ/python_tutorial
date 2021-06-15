@@ -1,1 +1,1 @@
-# python_tutorial from NCAR
+# ncar Python_tutorial
